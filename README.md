@@ -73,3 +73,5 @@ This boilerplate comes with batteries included, you’ll find:
 2. Change `NEW_NAME` & `NEW_CAMEL_NAME` variables with your app name
 3. Execute the script `sh rename.sh`
 3. Remove the file `rename.sh`
+
+based on: https://github.com/davetron5000/rails-app-template-sustainable
